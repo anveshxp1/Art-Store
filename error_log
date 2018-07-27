@@ -1,0 +1,145 @@
+[21-Feb-2018 02:33:20 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p2af1ovr88ui/public_html/project3/Part01_ArtistsDataList.php on line 53
+[21-Feb-2018 02:33:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home/p2af1ovr88ui/public_html/project3/Part01_ArtistsDataList.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/p2af1ovr88ui/public_html/project3/Part01_ArtistsDataList.php on line 54
+[21-Feb-2018 02:34:31 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p2af1ovr88ui/public_html/project3/Part04_Search.php on line 102
+[21-Feb-2018 02:34:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home/p2af1ovr88ui/public_html/project3/Part04_Search.php:103
+Stack trace:
+#0 {main}
+  thrown in /home/p2af1ovr88ui/public_html/project3/Part04_Search.php on line 103
+[21-Feb-2018 02:46:16 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p2af1ovr88ui/public_html/project3/Part01_ArtistsDataList.php on line 53
+[21-Feb-2018 02:46:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home/p2af1ovr88ui/public_html/project3/Part01_ArtistsDataList.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/p2af1ovr88ui/public_html/project3/Part01_ArtistsDataList.php on line 54
+[21-Feb-2018 03:28:52 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p2af1ovr88ui/public_html/project3/Part01_ArtistsDataList.php on line 53
+[21-Feb-2018 03:28:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home/p2af1ovr88ui/public_html/project3/Part01_ArtistsDataList.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/p2af1ovr88ui/public_html/project3/Part01_ArtistsDataList.php on line 54
+[21-Feb-2018 03:41:36 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p2af1ovr88ui/public_html/project3/Part04_Search.php on line 102
+[21-Feb-2018 03:41:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home/p2af1ovr88ui/public_html/project3/Part04_Search.php:103
+Stack trace:
+#0 {main}
+  thrown in /home/p2af1ovr88ui/public_html/project3/Part04_Search.php on line 103
+[21-Feb-2018 03:49:58 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p2af1ovr88ui/public_html/project3/Part01_ArtistsDataList.php on line 53
+[21-Feb-2018 03:49:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home/p2af1ovr88ui/public_html/project3/Part01_ArtistsDataList.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/p2af1ovr88ui/public_html/project3/Part01_ArtistsDataList.php on line 54
+[21-Feb-2018 03:51:17 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p2af1ovr88ui/public_html/project3/Part01_ArtistsDataList.php on line 53
+[21-Feb-2018 03:51:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home/p2af1ovr88ui/public_html/project3/Part01_ArtistsDataList.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/p2af1ovr88ui/public_html/project3/Part01_ArtistsDataList.php on line 54
+[21-Feb-2018 05:57:11 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p2af1ovr88ui/public_html/project3/Part01_ArtistsDataList.php on line 53
+[21-Feb-2018 05:57:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home/p2af1ovr88ui/public_html/project3/Part01_ArtistsDataList.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/p2af1ovr88ui/public_html/project3/Part01_ArtistsDataList.php on line 54
+[21-Feb-2018 05:57:40 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p2af1ovr88ui/public_html/project3/Part01_ArtistsDataList.php on line 53
+[21-Feb-2018 05:57:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home/p2af1ovr88ui/public_html/project3/Part01_ArtistsDataList.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/p2af1ovr88ui/public_html/project3/Part01_ArtistsDataList.php on line 54
+[21-Feb-2018 06:00:28 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'anveshdb'@'107.180.48.66' to database 'art' in /home/p2af1ovr88ui/public_html/project3/Part01_ArtistsDataList.php on line 105
+[21-Feb-2018 06:00:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home/p2af1ovr88ui/public_html/project3/Part01_ArtistsDataList.php:107
+Stack trace:
+#0 {main}
+  thrown in /home/p2af1ovr88ui/public_html/project3/Part01_ArtistsDataList.php on line 107
+[21-Feb-2018 06:01:59 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'anveshdb'@'107.180.48.66' to database 'art' in /home/p2af1ovr88ui/public_html/project3/Part01_ArtistsDataList.php on line 105
+[21-Feb-2018 06:01:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home/p2af1ovr88ui/public_html/project3/Part01_ArtistsDataList.php:108
+Stack trace:
+#0 {main}
+  thrown in /home/p2af1ovr88ui/public_html/project3/Part01_ArtistsDataList.php on line 108
+[21-Feb-2018 06:04:06 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'anveshdb'@'107.180.48.66' to database 'art' in /home/p2af1ovr88ui/public_html/project3/Part01_ArtistsDataList.php on line 106
+[21-Feb-2018 06:04:06 UTC] PHP Notice:  Undefined variable: conn in /home/p2af1ovr88ui/public_html/project3/Part01_ArtistsDataList.php on line 108
+[21-Feb-2018 06:04:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/p2af1ovr88ui/public_html/project3/Part01_ArtistsDataList.php:108
+Stack trace:
+#0 {main}
+  thrown in /home/p2af1ovr88ui/public_html/project3/Part01_ArtistsDataList.php on line 108
+[21-Feb-2018 06:15:10 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'i4372602_anveshdb'@'ip-107-180-48-66.ip.secureserver.net' (using password: YES) in /home/p2af1ovr88ui/public_html/project3/Part01_ArtistsDataList.php on line 105
+[21-Feb-2018 06:15:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home/p2af1ovr88ui/public_html/project3/Part01_ArtistsDataList.php:108
+Stack trace:
+#0 {main}
+  thrown in /home/p2af1ovr88ui/public_html/project3/Part01_ArtistsDataList.php on line 108
+[21-Feb-2018 06:17:52 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'i4372602_anveshdb'@'ip-107-180-48-66.ip.secureserver.net' (using password: YES) in /home/p2af1ovr88ui/public_html/project3/Part01_ArtistsDataList.php on line 105
+[21-Feb-2018 06:17:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home/p2af1ovr88ui/public_html/project3/Part01_ArtistsDataList.php:108
+Stack trace:
+#0 {main}
+  thrown in /home/p2af1ovr88ui/public_html/project3/Part01_ArtistsDataList.php on line 108
+[21-Feb-2018 06:22:07 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'i4372602_anveshdb'@'ip-107-180-48-66.ip.secureserver.net' (using password: YES) in /home/p2af1ovr88ui/public_html/project3/Part01_ArtistsDataList.php on line 105
+[21-Feb-2018 06:22:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home/p2af1ovr88ui/public_html/project3/Part01_ArtistsDataList.php:108
+Stack trace:
+#0 {main}
+  thrown in /home/p2af1ovr88ui/public_html/project3/Part01_ArtistsDataList.php on line 108
+[22-Feb-2018 21:35:48 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'i4372602_anveshdb'@'localhost' (using password: YES) in /home/p2af1ovr88ui/public_html/project3/Part01_ArtistsDataList.php on line 105
+[22-Feb-2018 21:35:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home/p2af1ovr88ui/public_html/project3/Part01_ArtistsDataList.php:108
+Stack trace:
+#0 {main}
+  thrown in /home/p2af1ovr88ui/public_html/project3/Part01_ArtistsDataList.php on line 108
+[22-Feb-2018 21:36:01 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'i4372602_anveshdb'@'localhost' (using password: YES) in /home/p2af1ovr88ui/public_html/project3/Part01_ArtistsDataList.php on line 105
+[22-Feb-2018 21:36:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home/p2af1ovr88ui/public_html/project3/Part01_ArtistsDataList.php:108
+Stack trace:
+#0 {main}
+  thrown in /home/p2af1ovr88ui/public_html/project3/Part01_ArtistsDataList.php on line 108
+[22-Feb-2018 21:36:53 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p2af1ovr88ui/public_html/project3/Part02_SingleArtist.php on line 60
+[22-Feb-2018 21:36:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home/p2af1ovr88ui/public_html/project3/Part02_SingleArtist.php:61
+Stack trace:
+#0 {main}
+  thrown in /home/p2af1ovr88ui/public_html/project3/Part02_SingleArtist.php on line 61
+[22-Feb-2018 21:39:10 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p2af1ovr88ui/public_html/project3/Part03_SingleWork.php on line 56
+[22-Feb-2018 21:39:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home/p2af1ovr88ui/public_html/project3/Part03_SingleWork.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/p2af1ovr88ui/public_html/project3/Part03_SingleWork.php on line 57
+[22-Feb-2018 21:40:59 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p2af1ovr88ui/public_html/project3/Part04_Search.php on line 102
+[22-Feb-2018 21:40:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home/p2af1ovr88ui/public_html/project3/Part04_Search.php:103
+Stack trace:
+#0 {main}
+  thrown in /home/p2af1ovr88ui/public_html/project3/Part04_Search.php on line 103
+[22-Feb-2018 22:21:54 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p2af1ovr88ui/public_html/project3/Part04_Search.php on line 102
+[22-Feb-2018 22:21:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home/p2af1ovr88ui/public_html/project3/Part04_Search.php:103
+Stack trace:
+#0 {main}
+  thrown in /home/p2af1ovr88ui/public_html/project3/Part04_Search.php on line 103
+[23-Feb-2018 06:53:03 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p2af1ovr88ui/public_html/project3/Part04_Search.php on line 201
+[23-Feb-2018 06:53:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home/p2af1ovr88ui/public_html/project3/Part04_Search.php:203
+Stack trace:
+#0 {main}
+  thrown in /home/p2af1ovr88ui/public_html/project3/Part04_Search.php on line 203
+[23-Feb-2018 06:53:17 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p2af1ovr88ui/public_html/project3/Part04_Search.php on line 201
+[23-Feb-2018 06:53:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home/p2af1ovr88ui/public_html/project3/Part04_Search.php:203
+Stack trace:
+#0 {main}
+  thrown in /home/p2af1ovr88ui/public_html/project3/Part04_Search.php on line 203
+[23-Feb-2018 06:53:30 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/p2af1ovr88ui/public_html/project3/Part04_Search.php on line 201
+[23-Feb-2018 06:53:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home/p2af1ovr88ui/public_html/project3/Part04_Search.php:203
+Stack trace:
+#0 {main}
+  thrown in /home/p2af1ovr88ui/public_html/project3/Part04_Search.php on line 203
+[19-Jul-2018 02:57:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/p2af1ovr88ui/public_html/art-store/Part03_SingleWork.php:119
+Stack trace:
+#0 {main}
+  thrown in /home/p2af1ovr88ui/public_html/art-store/Part03_SingleWork.php on line 119
+[19-Jul-2018 02:57:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/p2af1ovr88ui/public_html/art-store/Part03_SingleWork.php:119
+Stack trace:
+#0 {main}
+  thrown in /home/p2af1ovr88ui/public_html/art-store/Part03_SingleWork.php on line 119
+[19-Jul-2018 02:57:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/p2af1ovr88ui/public_html/art-store/Part03_SingleWork.php:119
+Stack trace:
+#0 {main}
+  thrown in /home/p2af1ovr88ui/public_html/art-store/Part03_SingleWork.php on line 119
+[19-Jul-2018 02:57:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/p2af1ovr88ui/public_html/art-store/Part03_SingleWork.php:119
+Stack trace:
+#0 {main}
+  thrown in /home/p2af1ovr88ui/public_html/art-store/Part03_SingleWork.php on line 119
+[19-Jul-2018 02:57:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/p2af1ovr88ui/public_html/art-store/Part03_SingleWork.php:119
+Stack trace:
+#0 {main}
+  thrown in /home/p2af1ovr88ui/public_html/art-store/Part03_SingleWork.php on line 119
+[19-Jul-2018 02:57:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/p2af1ovr88ui/public_html/art-store/Part03_SingleWork.php:119
+Stack trace:
+#0 {main}
+  thrown in /home/p2af1ovr88ui/public_html/art-store/Part03_SingleWork.php on line 119

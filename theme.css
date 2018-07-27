@@ -1,0 +1,57 @@
+body {
+  padding-top: 70px;
+  padding-bottom: 30px;
+}
+
+.theme-dropdown .dropdown-menu {
+  position: static;
+  display: block;
+  margin-bottom: 20px;
+}
+
+.theme-showcase > p > .btn {
+  margin: 5px 0;
+}
+
+.theme-showcase .navbar .container {
+  width: auto;
+}
+.btn-custom
+{
+  border-color: #ccc;
+}
+.jumbotron-custom
+{
+  padding-top: 10px;
+  margin-top: 10px;
+  background-color: #eee;
+  border: 1px solid #eee;
+}
+.jumbotron-custom2
+{
+  padding-top: 10px;
+   
+  border: 1px solid #eee;
+}
+.jumbotron-custom3
+{
+  padding-top: 10px;
+  background-color: #DDEDF9;
+  border: 1px solid #528FBD;
+  color:#528FBD;
+}
+.jumbotron-custom4
+{
+  padding-top: 10px;
+    background-color: #fff;
+
+}
+.col-custom
+{
+  position: relative;
+  min-height: 1px;
+  padding-right: 15px;
+  padding-left: 15px;
+  float:left;
+  width:20%;
+}
